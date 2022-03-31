@@ -1,0 +1,14 @@
+//body { background:green;}
+
+body {
+  margin: 30px;
+  text-align: center;
+}
+
+div.lesson {
+  border: solid;
+}
+
+div.lesson2 {
+  font-size: 28px;
+}
